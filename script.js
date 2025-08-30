@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, i like you.\n\n I always admire from afar, from the crowd I always look for you, I always like being near you, I don't know why I always think about you but in fact it's like that\n\n You know? I always pray for you all the time, I always tell my friends about you, and I'm always there for you whenever you need me.\n\nAnyway, I hope you're doing okay, i have a crush on you, i wish you had feelings like me :).`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
